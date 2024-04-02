@@ -122,9 +122,9 @@
         let name = '';
         
         if (type === 'autowash') {
-          name =  'автомойки';
+          name =  'приёма';
         } else {
-          name =  'автосервиса';
+          name =  'анализов';
         }
 
         wrapper.classList = 'admin__item';
